@@ -1,0 +1,46 @@
+
+Code Vs Program Vs Process in Linux 
+http://www.coolcoder.in/2013/12/code-vs-program-vs-process-in-linux.html
+
+
+* Linux user site
+Life cycle of a process 
+http://www.linuxuser.co.uk/features/life-cycle-of-a-process
+
+
+Master version control with Git – tutorial 
+http://www.linuxuser.co.uk/tutorials/master-version-control-with-git-tutorial
+
+Master Vim – Tutorial 
+http://www.linuxuser.co.uk/tutorials/master-vim-tutorial
+
+
+Shell scripting for system admin: the basics
+http://www.linuxuser.co.uk/tutorials/shell-scripting-for-system-administrators-the-basics/
+
+Shell scripting for system administrators: beyond the basics 
+http://www.linuxuser.co.uk/tutorials/shell-scripting-for-system-administrators-beyond-the-basics
+
+
+Shell scripting for system administrators: advanced techniques
+http://www.linuxuser.co.uk/tutorials/shell-scripting-for-system-administrators-advanced-techniques
+
+
+fork & exec,  clone,  pthread
+
+wait / waitpid
+
+capabilities
+
+
+privileged  processes  (whose effective user ID is 0, referred to as superuser or root)
+unprivileged processes (whose effective UID is nonzero).  
+
+unprivileged processes are subject to full permission checking based on the process's credentials (usually: effective  UID,  effective GID, and supplementary group list).
+
+
+objdump & 질문은 간단하다. 리눅스는 어떻게 내가 만든 main()을 실행하나? 
+http://smilk.egloos.com/486882
+
+
+uid,  euid?
